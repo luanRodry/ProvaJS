@@ -1,0 +1,13 @@
+#valorA, #valorB, #valorC {
+    width: 70px;
+    margin-left: 160px;
+    margin-top: 5px;
+}
+#resultado{
+    margin-left: 70px;
+    margin-top: 5px;
+    width: 130px;
+}
+#calcular{
+    width: 120px;
+}
